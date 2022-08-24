@@ -3,7 +3,7 @@
 This is a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods. 
 
 
-The CSV file contains price change data of cryptocurrencies in different periods.
+The CSV file in the Resources folder contains price change data of cryptocurrencies in different periods.
 
 The steps for this challenge are broken out into the following sections:
 
