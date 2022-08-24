@@ -1,6 +1,6 @@
 # Challenge 10 Crypto Clustering
 
-This is a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods. I’ll combine my financial Python programming skills with the new unsupervised learning skills that I acquired in this module.
+This is a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods. 
 
 
 The CSV file contains price change data of cryptocurrencies in different periods.
