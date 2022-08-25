@@ -1,4 +1,4 @@
-# Challenge 10 Crypto Clustering
+# Crypto Clustering
 
 This is a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods. 
 
